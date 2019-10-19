@@ -1,4 +1,15 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Venusaur.sticker"
+    },
+    {
+      "filename" : "Blastoise.sticker"
+    },
+    {
+      "filename" : "Charizard.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
